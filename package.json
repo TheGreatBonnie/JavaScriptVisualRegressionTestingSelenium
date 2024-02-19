@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "mocha": "^10.3.0",
+    "selenium-webdriver": "^4.17.0"
+  }
+}
